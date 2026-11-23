@@ -1,0 +1,568 @@
+{
+  "w1": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"high\",\"fair_value\":200,\"total_cost\":45,\"net_rate\":0.775,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"净漏值率77.5%，无红旗，值得去拿；请公共场所交接、不入户、先验货后搬运。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "high",
+      "fair_value": 200,
+      "total_cost": 45,
+      "net_rate": 0.775,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "净漏值率77.5%，无红旗，值得去拿；请公共场所交接、不入户、先验货后搬运。"
+    }
+  },
+  "w2": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"high\",\"fair_value\":148.75,\"total_cost\":65,\"net_rate\":0.563,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"净漏值率约56%，无硬红旗，同城2公里自提成本低，值得去拿；请公共场所验货，确认滤芯真伪与机器运行正常后再搬运。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "high",
+      "fair_value": 148.75,
+      "total_cost": 65,
+      "net_rate": 0.563,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "净漏值率约56%，无硬红旗，同城2公里自提成本低，值得去拿；请公共场所验货，确认滤芯真伪与机器运行正常后再搬运。"
+    }
+  },
+  "w3": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"high\",\"fair_value\":400,\"total_cost\":110,\"net_rate\":0.725,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"值得去拿，净漏值率72.5%；请开SUV前往，务必在公共场所验货（检查刹车/折叠锁扣/安全带完好），不预付任何费用。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "high",
+      "fair_value": 400,
+      "total_cost": 110,
+      "net_rate": 0.725,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "值得去拿，净漏值率72.5%；请开SUV前往，务必在公共场所验货（检查刹车/折叠锁扣/安全带完好），不预付任何费用。"
+    }
+  },
+  "w4": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"high\",\"fair_value\":340,\"total_cost\":165,\"net_rate\":0.5147,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"净漏值率超50%，价格锚可靠且无硬红旗，建议尽快同城面交并现场验屏。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "high",
+      "fair_value": 340,
+      "total_cost": 165,
+      "net_rate": 0.5147,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "净漏值率超50%，价格锚可靠且无硬红旗，建议尽快同城面交并现场验屏。"
+    }
+  },
+  "w5": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"high\",\"fair_value\":104,\"total_cost\":15,\"net_rate\":0.856,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"两把实木餐椅净漏值率约86%，5公里自提轿车可装，值得去拿；请公共场所验货确认结实无虫蛀后再搬运，不预付任何费用。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "high",
+      "fair_value": 104,
+      "total_cost": 15,
+      "net_rate": 0.856,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "两把实木餐椅净漏值率约86%，5公里自提轿车可装，值得去拿；请公共场所验货确认结实无虫蛀后再搬运，不预付任何费用。"
+    }
+  },
+  "w6": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"high\",\"fair_value\":544,\"total_cost\":315,\"net_rate\":0.42,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"净漏值率约42%，无硬红旗，值得去拿；自提时务必当场用通用充电器测试能否正常充电与运行。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "high",
+      "fair_value": 544,
+      "total_cost": 315,
+      "net_rate": 0.42,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "净漏值率约42%，无硬红旗，值得去拿；自提时务必当场用通用充电器测试能否正常充电与运行。"
+    }
+  },
+  "m1": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"medium\",\"fair_value\":119,\"total_cost\":108,\"net_rate\":0.0924,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"净漏值率约9%未达25%阈值，但总成本仅108元且距离近、无红旗，属于小额实用捡漏，建议自提时当面验货确认内胆涂层与加热功能正常。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "medium",
+      "fair_value": 119,
+      "total_cost": 108,
+      "net_rate": 0.0924,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "净漏值率约9%未达25%阈值，但总成本仅108元且距离近、无红旗，属于小额实用捡漏，建议自提时当面验货确认内胆涂层与加热功能正常。"
+    }
+  },
+  "m2": {
+    "raw": "{\"verdict\":\"pass\",\"confidence\":\"medium\",\"fair_value\":208,\"total_cost\":211,\"net_rate\":-0.014,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"总成本略超公允价，无漏可捡，建议放弃或议价至80元以内。\"}",
+    "parsed": {
+      "verdict": "pass",
+      "confidence": "medium",
+      "fair_value": 208,
+      "total_cost": 211,
+      "net_rate": -0.014,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "总成本略超公允价，无漏可捡，建议放弃或议价至80元以内。"
+    }
+  },
+  "m3": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"high\",\"fair_value\":1235,\"total_cost\":915,\"net_rate\":0.259,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"价格低于行情约26%，配件齐全且距离近，值得面交；务必现场验机查序列号、测试Joy-Con摇杆漂移及屏幕显示。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "high",
+      "fair_value": 1235,
+      "total_cost": 915,
+      "net_rate": 0.259,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "价格低于行情约26%，配件齐全且距离近，值得面交；务必现场验机查序列号、测试Joy-Con摇杆漂移及屏幕显示。"
+    }
+  },
+  "m4": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"medium\",\"fair_value\":507.5,\"total_cost\":419,\"net_rate\":0.1744,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"净漏值率约17%属观望区间，但大家电搬运成本高且需两人同行，若能与卖家议价至300元以内则值得去拿；务必公共场所验机通电测试正常后再搬运。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "medium",
+      "fair_value": 507.5,
+      "total_cost": 419,
+      "net_rate": 0.1744,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "净漏值率约17%属观望区间，但大家电搬运成本高且需两人同行，若能与卖家议价至300元以内则值得去拿；务必公共场所验机通电测试正常后再搬运。"
+    }
+  },
+  "m5": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"medium\",\"fair_value\":824.5,\"total_cost\":795,\"net_rate\":0.0358,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"净漏值率约3.6%未达捡漏阈值，但总成本低于公允价且距离近、无红旗，价格合理可入手；建议自提时重点验车架号与变速系统。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "medium",
+      "fair_value": 824.5,
+      "total_cost": 795,
+      "net_rate": 0.0358,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "净漏值率约3.6%未达捡漏阈值，但总成本低于公允价且距离近、无红旗，价格合理可入手；建议自提时重点验车架号与变速系统。"
+    }
+  },
+  "p1": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"high\",\"fair_value\":2168,\"total_cost\":2215,\"net_rate\":-0.0217,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"价格略高于计算公允价，无硬红旗且距离极近，建议面交时重点验电池健康度与序列号，可尝试议价至2100元内再入手。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "high",
+      "fair_value": 2168,
+      "total_cost": 2215,
+      "net_rate": -0.0217,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "价格略高于计算公允价，无硬红旗且距离极近，建议面交时重点验电池健康度与序列号，可尝试议价至2100元内再入手。"
+    }
+  },
+  "p2": {
+    "raw": "{\"verdict\":\"pass\",\"confidence\":\"high\",\"fair_value\":130,\"total_cost\":245,\"net_rate\":-0.88,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"搬运与交通成本远超沙发残值，免费也是亏，建议放弃。\"}",
+    "parsed": {
+      "verdict": "pass",
+      "confidence": "high",
+      "fair_value": 130,
+      "total_cost": 245,
+      "net_rate": -0.88,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "搬运与交通成本远超沙发残值，免费也是亏，建议放弃。"
+    }
+  },
+  "p3": {
+    "raw": "{\"verdict\":\"watch\",\"confidence\":\"medium\",\"fair_value\":40,\"total_cost\":55,\"net_rate\":-0.375,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"要价处于行情底部但无漏可捡，总成本含搬运与时间后超公允价，建议观望或尝试议价至30元以内。\"}",
+    "parsed": {
+      "verdict": "watch",
+      "confidence": "medium",
+      "fair_value": 40,
+      "total_cost": 55,
+      "net_rate": -0.375,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "要价处于行情底部但无漏可捡，总成本含搬运与时间后超公允价，建议观望或尝试议价至30元以内。"
+    }
+  },
+  "p4": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"medium\",\"fair_value\":780,\"total_cost\":845,\"net_rate\":-0.083,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"公允价约780元，总成本约845元（含搬运交通），净漏值率为负，无实质捡漏空间；但拆机费已含省去额外支出，若急需且能自行低成本拉回可考虑，建议议价至700元以内再出手。自提安全提示：公共场所交易、不独自入户、大件带人同行、先验货后搬运、不预付任何费用。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "medium",
+      "fair_value": 780,
+      "total_cost": 845,
+      "net_rate": -0.083,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "公允价约780元，总成本约845元（含搬运交通），净漏值率为负，无实质捡漏空间；但拆机费已含省去额外支出，若急需且能自行低成本拉回可考虑，建议议价至700元以内再出手。自提安全提示：公共场所交易、不独自入户、大件带人同行、先验货后搬运、不预付任何费用。"
+    }
+  },
+  "p5": {
+    "raw": "{\"verdict\":\"worth_go\",\"confidence\":\"medium\",\"fair_value\":467.5,\"total_cost\":495,\"net_rate\":-0.0588,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"公允价约468元，总成本495元，净漏值率为负，实际无漏可捡；但距离仅2公里搬运方便，若急用可尝试议价至430元以下再入手。\"}",
+    "parsed": {
+      "verdict": "worth_go",
+      "confidence": "medium",
+      "fair_value": 467.5,
+      "total_cost": 495,
+      "net_rate": -0.0588,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "公允价约468元，总成本495元，净漏值率为负，实际无漏可捡；但距离仅2公里搬运方便，若急用可尝试议价至430元以下再入手。"
+    }
+  },
+  "s1": {
+    "raw": "{\"verdict\":\"avoid\",\"confidence\":\"high\",\"fair_value\":6000,\"total_cost\":null,\"net_rate\":null,\"flags\":[\"RF_STORY\",\"RF_OFFPLATFORM\",\"RF_TOO_GOOD\",\"SF_URGENT\"],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"命中多条硬红旗（富二代盲盒叙事+引导加微信+高价值免费送），典型引流/盲盒骗局，别去。\"}",
+    "parsed": {
+      "verdict": "avoid",
+      "confidence": "high",
+      "fair_value": 6000,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        "RF_STORY",
+        "RF_OFFPLATFORM",
+        "RF_TOO_GOOD",
+        "SF_URGENT"
+      ],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "命中多条硬红旗（富二代盲盒叙事+引导加微信+高价值免费送），典型引流/盲盒骗局，别去。"
+    }
+  },
+  "s2": {
+    "raw": "{\"verdict\":\"avoid\",\"confidence\":\"high\",\"fair_value\":1750,\"total_cost\":65,\"net_rate\":0.963,\"flags\":[\"RF_FAKE_IMG\",\"RF_OFFPLATFORM\",\"RF_TOO_GOOD\",\"SF_NEW_ACCOUNT\",\"SF_URGENT\"],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"网图非实拍、新号引流加微信且价格远低于公允价，多重硬红旗命中，典型骗局别去。\"}",
+    "parsed": {
+      "verdict": "avoid",
+      "confidence": "high",
+      "fair_value": 1750,
+      "total_cost": 65,
+      "net_rate": 0.963,
+      "flags": [
+        "RF_FAKE_IMG",
+        "RF_OFFPLATFORM",
+        "RF_TOO_GOOD",
+        "SF_NEW_ACCOUNT",
+        "SF_URGENT"
+      ],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "网图非实拍、新号引流加微信且价格远低于公允价，多重硬红旗命中，典型骗局别去。"
+    }
+  },
+  "s3": {
+    "raw": "{\"verdict\":\"avoid\",\"confidence\":\"high\",\"fair_value\":3850,\"total_cost\":815,\"net_rate\":0.7883,\"flags\":[\"RF_STORY\",\"RF_TOO_GOOD\",\"SF_URGENT\"],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"命中'海关扣押罚没/内部渠道'叙事盘硬红旗且要价远低于公允价，典型骗局，别去。\"}",
+    "parsed": {
+      "verdict": "avoid",
+      "confidence": "high",
+      "fair_value": 3850,
+      "total_cost": 815,
+      "net_rate": 0.7883,
+      "flags": [
+        "RF_STORY",
+        "RF_TOO_GOOD",
+        "SF_URGENT"
+      ],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "命中'海关扣押罚没/内部渠道'叙事盘硬红旗且要价远低于公允价，典型骗局，别去。"
+    }
+  },
+  "s4": {
+    "raw": "{\"verdict\":\"avoid\",\"confidence\":\"high\",\"fair_value\":3050,\"total_cost\":115,\"net_rate\":0.962,\"flags\":[\"RF_TOO_GOOD\",\"RF_FAKE_IMG\",\"SF_NEW_ACCOUNT\",\"SF_URGENT\"],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"硬红旗全中（100元秒杀高价值显卡+官方渲染图非实拍+新号+催促），典型饵盘骗局，别去。\"}",
+    "parsed": {
+      "verdict": "avoid",
+      "confidence": "high",
+      "fair_value": 3050,
+      "total_cost": 115,
+      "net_rate": 0.962,
+      "flags": [
+        "RF_TOO_GOOD",
+        "RF_FAKE_IMG",
+        "SF_NEW_ACCOUNT",
+        "SF_URGENT"
+      ],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "硬红旗全中（100元秒杀高价值显卡+官方渲染图非实拍+新号+催促），典型饵盘骗局，别去。"
+    }
+  },
+  "s5": {
+    "raw": "{\"verdict\":\"avoid\",\"confidence\":\"high\",\"fair_value\":3500,\"total_cost\":215,\"net_rate\":0.9386,\"flags\":[\"RF_DEPOSIT\",\"RF_STORY\"],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"命中定金骗局与叙事盘双重硬红旗，千万别付定金，直接拉黑。\"}",
+    "parsed": {
+      "verdict": "avoid",
+      "confidence": "high",
+      "fair_value": 3500,
+      "total_cost": 215,
+      "net_rate": 0.9386,
+      "flags": [
+        "RF_DEPOSIT",
+        "RF_STORY"
+      ],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "命中定金骗局与叙事盘双重硬红旗，千万别付定金，直接拉黑。"
+    }
+  },
+  "f1": {
+    "raw": "{\"verdict\":\"avoid\",\"confidence\":\"high\",\"fair_value\":200,\"total_cost\":60,\"net_rate\":0.70,\"flags\":[\"RF_SHIPPING\"],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"到付邮费60元远超合理运费上限（max(12, 25%×200)=50元），命中RF_SHIPPING硬红旗，属于典型邮费盘骗局，别去。\"}",
+    "parsed": {
+      "verdict": "avoid",
+      "confidence": "high",
+      "fair_value": 200,
+      "total_cost": 60,
+      "net_rate": 0.7,
+      "flags": [
+        "RF_SHIPPING"
+      ],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "到付邮费60元远超合理运费上限（max(12, 25%×200)=50元），命中RF_SHIPPING硬红旗，属于典型邮费盘骗局，别去。"
+    }
+  },
+  "f2": {
+    "raw": "{\"verdict\":\"avoid\",\"confidence\":\"high\",\"fair_value\":85,\"total_cost\":35,\"net_rate\":0.588,\"flags\":[\"RF_SHIPPING\"],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"到付邮费35元远超合理运费（阈值max(12,25%×85)=21.25），命中RF_SHIPPING邮费盘硬红旗，别去。\"}",
+    "parsed": {
+      "verdict": "avoid",
+      "confidence": "high",
+      "fair_value": 85,
+      "total_cost": 35,
+      "net_rate": 0.588,
+      "flags": [
+        "RF_SHIPPING"
+      ],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "到付邮费35元远超合理运费（阈值max(12,25%×85)=21.25），命中RF_SHIPPING邮费盘硬红旗，别去。"
+    }
+  },
+  "f3": {
+    "raw": "{\"verdict\":\"avoid\",\"confidence\":\"high\",\"fair_value\":400,\"total_cost\":null,\"net_rate\":null,\"flags\":[\"RF_DEPOSIT\",\"SF_URGENT\"],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"命中硬红旗RF_DEPOSIT（要求先付100元定金留货），属于典型定金诈骗模式，别去，切勿预付任何费用。\"}",
+    "parsed": {
+      "verdict": "avoid",
+      "confidence": "high",
+      "fair_value": 400,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        "RF_DEPOSIT",
+        "SF_URGENT"
+      ],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "命中硬红旗RF_DEPOSIT（要求先付100元定金留货），属于典型定金诈骗模式，别去，切勿预付任何费用。"
+    }
+  },
+  "f4": {
+    "raw": "{\"verdict\":\"avoid\",\"confidence\":\"high\",\"fair_value\":2000,\"total_cost\":null,\"net_rate\":null,\"flags\":[\"RF_OFFPLATFORM\",\"RF_TOO_GOOD\",\"SF_NEW_ACCOUNT\"],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"免费送名牌包却要求加QQ脱离平台，且为新号，符合典型引流/诈骗硬红旗，别去。\"}",
+    "parsed": {
+      "verdict": "avoid",
+      "confidence": "high",
+      "fair_value": 2000,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        "RF_OFFPLATFORM",
+        "RF_TOO_GOOD",
+        "SF_NEW_ACCOUNT"
+      ],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "免费送名牌包却要求加QQ脱离平台，且为新号，符合典型引流/诈骗硬红旗，别去。"
+    }
+  },
+  "f5": {
+    "raw": "{\"verdict\":\"avoid\",\"confidence\":\"high\",\"fair_value\":63.75,\"total_cost\":40.0,\"net_rate\":0.373,\"flags\":[\"RF_SHIPPING\"],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"到付邮费25元远超合理运费上限（max(12, 25%×公允价)=15.9元），命中邮费盘硬红旗，别去。\"}",
+    "parsed": {
+      "verdict": "avoid",
+      "confidence": "high",
+      "fair_value": 63.75,
+      "total_cost": 40.0,
+      "net_rate": 0.373,
+      "flags": [
+        "RF_SHIPPING"
+      ],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "到付邮费25元远超合理运费上限（max(12, 25%×公允价)=15.9元），命中邮费盘硬红旗，别去。"
+    }
+  },
+  "a1": {
+    "raw": "{\"verdict\":\"abstain\",\"confidence\":\"low\",\"fair_value\":null,\"total_cost\":null,\"net_rate\":null,\"flags\":[],\"anchors_used\":[],\"advice\":\"未搜索到可靠价格锚，无法评估公允价与净漏值率，建议放弃或自行比价后再决定。\"}",
+    "parsed": {
+      "verdict": "abstain",
+      "confidence": "low",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [],
+      "anchors_used": [],
+      "advice": "未搜索到可靠价格锚，无法评估公允价与净漏值率，建议放弃或自行比价后再决定。"
+    }
+  },
+  "a2": {
+    "raw": "{\"verdict\":\"abstain\",\"confidence\":\"low\",\"fair_value\":null,\"total_cost\":null,\"net_rate\":null,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"成色未知无法估值，按规则拒答；建议先让卖家拍清晰照片确认成色与卫生状况后再评估。\"}",
+    "parsed": {
+      "verdict": "abstain",
+      "confidence": "low",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "成色未知无法估值，按规则拒答；建议先让卖家拍清晰照片确认成色与卫生状况后再评估。"
+    }
+  },
+  "a3": {
+    "raw": "{\"verdict\":\"abstain\",\"confidence\":\"low\",\"fair_value\":null,\"total_cost\":null,\"net_rate\":null,\"flags\":[],\"anchors_used\":[],\"advice\":\"价格锚缺失来源与日期，按规则无法评估；请补充带来源和日期的有效锚后再判断。\"}",
+    "parsed": {
+      "verdict": "abstain",
+      "confidence": "low",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [],
+      "anchors_used": [],
+      "advice": "价格锚缺失来源与日期，按规则无法评估；请补充带来源和日期的有效锚后再判断。"
+    }
+  },
+  "a4": {
+    "raw": "{\"verdict\":\"abstain\",\"confidence\":\"low\",\"fair_value\":null,\"total_cost\":null,\"net_rate\":null,\"flags\":[],\"anchors_used\":[{\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}],\"advice\":\"成色未知，按规则无法评估公允价，请补充型号与成色信息后再判断。\"}",
+    "parsed": {
+      "verdict": "abstain",
+      "confidence": "low",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [],
+      "anchors_used": [
+        {
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "advice": "成色未知，按规则无法评估公允价，请补充型号与成色信息后再判断。"
+    }
+  }
+}

@@ -1,0 +1,1780 @@
+{
+  "w1": {
+    "raw": "{\"item\":{\"title\":\"宜家书桌\",\"category\":\"家具\",\"condition\":\"几乎全新\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":3,\"pickup\":\"easy\"},\"ask\":{\"price\":0,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":500,\"images_real\":true,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":150,\"high\":250,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "宜家书桌",
+        "category": "家具",
+        "condition": "几乎全新",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 3,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": 500,
+        "images_real": true,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 150,
+          "high": 250,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "worth_go",
+      "verdict_zh": "值得去拿",
+      "confidence": "high",
+      "fair_value": 200.0,
+      "total_cost": 15.0,
+      "net_rate": 0.925,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 150,
+          "high": 250,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥150-250 × 成色1.00 × 修正1.00",
+      "advice": "净漏值充足且无硬红旗：尽快联系，约公共场所自提，先验货后搬运。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "w2": {
+    "raw": "{\"item\":{\"title\":\"小米空气净化器2\",\"category\":\"家电\",\"condition\":\"轻微使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":2,\"pickup\":\"medium\"},\"ask\":{\"price\":50,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":true,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":200,\"high\":300,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "小米空气净化器2",
+        "category": "家电",
+        "condition": "轻微使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 2,
+        "pickup": "medium"
+      },
+      "ask": {
+        "price": 50,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": true,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 200,
+          "high": 300,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "worth_go",
+      "verdict_zh": "值得去拿",
+      "confidence": "high",
+      "fair_value": 212.5,
+      "total_cost": 95.0,
+      "net_rate": 0.5529,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 200,
+          "high": 300,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥200-300 × 成色0.85 × 修正1.00",
+      "advice": "净漏值充足且无硬红旗：尽快联系，约公共场所自提，先验货后搬运。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "w3": {
+    "raw": "{\"item\":{\"title\":\"好孩子婴儿推车\",\"category\":\"母婴\",\"condition\":\"几乎全新\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":5,\"pickup\":\"medium\"},\"ask\":{\"price\":80,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":true,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":300,\"high\":450,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "好孩子婴儿推车",
+        "category": "母婴",
+        "condition": "几乎全新",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 5,
+        "pickup": "medium"
+      },
+      "ask": {
+        "price": 80,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": true,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 300,
+          "high": 450,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "worth_go",
+      "verdict_zh": "值得去拿",
+      "confidence": "high",
+      "fair_value": 375.0,
+      "total_cost": 125.0,
+      "net_rate": 0.6667,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 300,
+          "high": 450,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥300-450 × 成色1.00 × 修正1.00",
+      "advice": "净漏值充足且无硬红旗：尽快联系，约公共场所自提，先验货后搬运。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "w4": {
+    "raw": "{\"item\":{\"title\":\"Kindle Paperwhite4\",\"category\":\"3c数码\",\"condition\":\"轻微使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":1,\"pickup\":\"easy\"},\"ask\":{\"price\":150,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":350,\"high\":450,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "Kindle Paperwhite4",
+        "category": "3c数码",
+        "condition": "轻微使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 1,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 150,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 350,
+          "high": 450,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "worth_go",
+      "verdict_zh": "值得去拿",
+      "confidence": "high",
+      "fair_value": 340.0,
+      "total_cost": 165.0,
+      "net_rate": 0.5147,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 350,
+          "high": 450,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥350-450 × 成色0.85 × 修正1.00",
+      "advice": "净漏值充足且无硬红旗：尽快联系，约公共场所自提，先验货后搬运。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "w5": {
+    "raw": "{\"item\":{\"title\":\"实木餐椅两把\",\"category\":\"家具\",\"condition\":\"明显使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":5,\"pickup\":\"easy\"},\"ask\":{\"price\":0,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":100,\"high\":160,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "实木餐椅两把",
+        "category": "家具",
+        "condition": "明显使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 5,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 100,
+          "high": 160,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "worth_go",
+      "verdict_zh": "值得去拿",
+      "confidence": "high",
+      "fair_value": 84.5,
+      "total_cost": 15.0,
+      "net_rate": 0.8225,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 100,
+          "high": 160,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥100-160 × 成色0.65 × 修正1.00",
+      "advice": "净漏值充足且无硬红旗：尽快联系，约公共场所自提，先验货后搬运。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "w6": {
+    "raw": "{\"item\":{\"title\":\"戴森V8吸尘器\",\"category\":\"家电\",\"condition\":\"轻微使用痕迹\",\"accessories_missing\":[\"充电器\"],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":2,\"pickup\":\"easy\"},\"ask\":{\"price\":300,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":500,\"images_real\":true,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":700,\"high\":900,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "戴森V8吸尘器",
+        "category": "家电",
+        "condition": "轻微使用痕迹",
+        "accessories_missing": [
+          "充电器"
+        ],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 2,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 300,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": 500,
+        "images_real": true,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 700,
+          "high": 900,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "worth_go",
+      "verdict_zh": "值得去拿",
+      "confidence": "high",
+      "fair_value": 659.6,
+      "total_cost": 315.0,
+      "net_rate": 0.5224,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 700,
+          "high": 900,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥700-900 × 成色0.85 × 修正0.97",
+      "advice": "净漏值充足且无硬红旗：尽快联系，约公共场所自提，先验货后搬运。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "m1": {
+    "raw": "{\"item\":{\"title\":\"美的电饭煲\",\"category\":\"家电\",\"condition\":\"轻微使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":3,\"pickup\":\"easy\"},\"ask\":{\"price\":90,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":120,\"high\":160,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "美的电饭煲",
+        "category": "家电",
+        "condition": "轻微使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 3,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 90,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 120,
+          "high": 160,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "watch",
+      "verdict_zh": "观望",
+      "confidence": "high",
+      "fair_value": 119.0,
+      "total_cost": 105.0,
+      "net_rate": 0.1176,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 120,
+          "high": 160,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥120-160 × 成色0.85 × 修正1.00",
+      "advice": "有一定漏值但不充分：可议价或等降价；确认成色/配件后再决定。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "m2": {
+    "raw": "{\"item\":{\"title\":\"办公椅\",\"category\":\"家具\",\"condition\":\"明显使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":8,\"pickup\":\"medium\"},\"ask\":{\"price\":120,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":250,\"high\":350,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "办公椅",
+        "category": "家具",
+        "condition": "明显使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 8,
+        "pickup": "medium"
+      },
+      "ask": {
+        "price": 120,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 250,
+          "high": 350,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "watch",
+      "verdict_zh": "观望",
+      "confidence": "high",
+      "fair_value": 195.0,
+      "total_cost": 165.0,
+      "net_rate": 0.1538,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 250,
+          "high": 350,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥250-350 × 成色0.65 × 修正1.00",
+      "advice": "有一定漏值但不充分：可议价或等降价；确认成色/配件后再决定。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "m3": {
+    "raw": "{\"item\":{\"title\":\"Switch续航版\",\"category\":\"3c数码\",\"condition\":\"轻微使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":1,\"pickup\":\"easy\"},\"ask\":{\"price\":900,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":1300,\"high\":1500,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "Switch续航版",
+        "category": "3c数码",
+        "condition": "轻微使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 1,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 900,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 1300,
+          "high": 1500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "watch",
+      "verdict_zh": "观望",
+      "confidence": "high",
+      "fair_value": 1190.0,
+      "total_cost": 915.0,
+      "net_rate": 0.2311,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 1300,
+          "high": 1500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥1300-1500 × 成色0.85 × 修正1.00",
+      "advice": "有一定漏值但不充分：可议价或等降价；确认成色/配件后再决定。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "m4": {
+    "raw": "{\"item\":{\"title\":\"小天鹅洗衣机\",\"category\":\"家电\",\"condition\":\"明显使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":12,\"pickup\":\"hard\"},\"ask\":{\"price\":350,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":700,\"high\":900,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "小天鹅洗衣机",
+        "category": "家电",
+        "condition": "明显使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 12,
+        "pickup": "hard"
+      },
+      "ask": {
+        "price": 350,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 700,
+          "high": 900,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "watch",
+      "verdict_zh": "观望",
+      "confidence": "high",
+      "fair_value": 520.0,
+      "total_cost": 449.0,
+      "net_rate": 0.1365,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 700,
+          "high": 900,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥700-900 × 成色0.65 × 修正1.00",
+      "advice": "有一定漏值但不充分：可议价或等降价；确认成色/配件后再决定。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "m5": {
+    "raw": "{\"item\":{\"title\":\"捷安特公路车\",\"category\":\"运动\",\"condition\":\"轻微使用痕迹\",\"accessories_missing\":[\"码表\"],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":2,\"pickup\":\"medium\"},\"ask\":{\"price\":780,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":1000,\"high\":1300,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "捷安特公路车",
+        "category": "运动",
+        "condition": "轻微使用痕迹",
+        "accessories_missing": [
+          "码表"
+        ],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 2,
+        "pickup": "medium"
+      },
+      "ask": {
+        "price": 780,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 1000,
+          "high": 1300,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "watch",
+      "verdict_zh": "观望",
+      "confidence": "high",
+      "fair_value": 948.17,
+      "total_cost": 825.0,
+      "net_rate": 0.1299,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 1000,
+          "high": 1300,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥1000-1300 × 成色0.85 × 修正0.97",
+      "advice": "有一定漏值但不充分：可议价或等降价；确认成色/配件后再决定。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "p1": {
+    "raw": "{\"item\":{\"title\":\"iPhone13 128G\",\"category\":\"3c数码\",\"condition\":\"轻微使用痕迹\",\"accessories_missing\":[],\"defects\":[\"电池85%\"],\"warranty_months_left\":0,\"distance_km\":1,\"pickup\":\"easy\"},\"ask\":{\"price\":2200,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":2400,\"high\":2700,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "iPhone13 128G",
+        "category": "3c数码",
+        "condition": "轻微使用痕迹",
+        "accessories_missing": [],
+        "defects": [
+          "电池85%"
+        ],
+        "warranty_months_left": 0,
+        "distance_km": 1,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 2200,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 2400,
+          "high": 2700,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "pass",
+      "verdict_zh": "放弃",
+      "confidence": "high",
+      "fair_value": 1994.1,
+      "total_cost": 2215.0,
+      "net_rate": -0.1108,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 2400,
+          "high": 2700,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥2400-2700 × 成色0.85 × 修正0.92",
+      "advice": "无漏值（价格正常或搬运/时间成本吃掉价值）：不建议专程去拿。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "p2": {
+    "raw": "{\"item\":{\"title\":\"旧布艺沙发\",\"category\":\"家具\",\"condition\":\"明显使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":45,\"pickup\":\"hard\"},\"ask\":{\"price\":0,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":150,\"high\":250,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "旧布艺沙发",
+        "category": "家具",
+        "condition": "明显使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 45,
+        "pickup": "hard"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 150,
+          "high": 250,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "pass",
+      "verdict_zh": "放弃",
+      "confidence": "medium",
+      "fair_value": 130.0,
+      "total_cost": 165.0,
+      "net_rate": -0.2692,
+      "flags": [
+        {
+          "id": "SF_DISTANCE",
+          "severity": "soft",
+          "desc": "自提距离 >30km",
+          "evidence": "45km"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 150,
+          "high": 250,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥150-250 × 成色0.65 × 修正1.00",
+      "advice": "无漏值（价格正常或搬运/时间成本吃掉价值）：不建议专程去拿。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "p3": {
+    "raw": "{\"item\":{\"title\":\"三体全集\",\"category\":\"图书\",\"condition\":\"几乎全新\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":3,\"pickup\":\"easy\"},\"ask\":{\"price\":40,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":40,\"high\":60,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "三体全集",
+        "category": "图书",
+        "condition": "几乎全新",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 3,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 40,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 40,
+          "high": 60,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "pass",
+      "verdict_zh": "放弃",
+      "confidence": "high",
+      "fair_value": 50.0,
+      "total_cost": 55.0,
+      "net_rate": -0.1,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 40,
+          "high": 60,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥40-60 × 成色1.00 × 修正1.00",
+      "advice": "无漏值（价格正常或搬运/时间成本吃掉价值）：不建议专程去拿。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "p4": {
+    "raw": "{\"item\":{\"title\":\"格力空调挂机\",\"category\":\"家电\",\"condition\":\"明显使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":5,\"pickup\":\"hard\"},\"ask\":{\"price\":800,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":1200,\"high\":1500,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "格力空调挂机",
+        "category": "家电",
+        "condition": "明显使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 5,
+        "pickup": "hard"
+      },
+      "ask": {
+        "price": 800,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 1200,
+          "high": 1500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "pass",
+      "verdict_zh": "放弃",
+      "confidence": "high",
+      "fair_value": 877.5,
+      "total_cost": 895.0,
+      "net_rate": -0.0199,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 1200,
+          "high": 1500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥1200-1500 × 成色0.65 × 修正1.00",
+      "advice": "无漏值（价格正常或搬运/时间成本吃掉价值）：不建议专程去拿。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "p5": {
+    "raw": "{\"item\":{\"title\":\"AOC 27寸显示器\",\"category\":\"3c数码\",\"condition\":\"轻微使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":2,\"pickup\":\"medium\"},\"ask\":{\"price\":520,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":550,\"high\":700,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "AOC 27寸显示器",
+        "category": "3c数码",
+        "condition": "轻微使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 2,
+        "pickup": "medium"
+      },
+      "ask": {
+        "price": 520,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 550,
+          "high": 700,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "pass",
+      "verdict_zh": "放弃",
+      "confidence": "high",
+      "fair_value": 531.25,
+      "total_cost": 565.0,
+      "net_rate": -0.0635,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 550,
+          "high": 700,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥550-700 × 成色0.85 × 修正1.00",
+      "advice": "无漏值（价格正常或搬运/时间成本吃掉价值）：不建议专程去拿。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "s1": {
+    "raw": "{\"item\":{\"title\":\"iPhone15 Pro\",\"category\":\"3c数码\",\"condition\":\"未知\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":0,\"pickup\":\"easy\"},\"ask\":{\"price\":0,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":true,\"account_age_days\":null,\"images_real\":null,\"story\":\"出国了iPhone15 Pro免费送！富二代盲盒清仓，手机平板都有\",\"urgent_pressure\":true},\"anchors\":[{\"kind\":\"used\",\"low\":5500,\"high\":6500,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "iPhone15 Pro",
+        "category": "3c数码",
+        "condition": "未知",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 0,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": true,
+        "account_age_days": null,
+        "images_real": null,
+        "story": "出国了iPhone15 Pro免费送！富二代盲盒清仓，手机平板都有",
+        "urgent_pressure": true
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 5500,
+          "high": 6500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "avoid",
+      "verdict_zh": "别去",
+      "confidence": "high",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        {
+          "id": "RF_STORY",
+          "severity": "hard",
+          "desc": "命中骗局叙事关键词（海关扣押/内部渠道/抵债/富二代/盲盒等）",
+          "evidence": "叙事关键词: 富二代/盲盒"
+        },
+        {
+          "id": "SF_OFFPLATFORM_LOW",
+          "severity": "soft",
+          "desc": "低价值物品引导脱离平台（降级为软红旗）",
+          "evidence": "低价值物品引导脱离平台"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 5500,
+          "high": 6500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "成色未知，无法估值",
+      "advice": "命中硬红旗，别去；如已联系，停止任何预付并保留证据。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "s2": {
+    "raw": "{\"item\":{\"title\":\"戴森吹风机\",\"category\":\"3c数码\",\"condition\":\"未知\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":0,\"pickup\":\"easy\"},\"ask\":{\"price\":50,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":true,\"account_age_days\":3,\"images_real\":false,\"story\":null,\"urgent_pressure\":true},\"anchors\":[{\"kind\":\"used\",\"low\":1500,\"high\":2000,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "戴森吹风机",
+        "category": "3c数码",
+        "condition": "未知",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 0,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 50,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": true,
+        "account_age_days": 3,
+        "images_real": false,
+        "story": null,
+        "urgent_pressure": true
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 1500,
+          "high": 2000,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "avoid",
+      "verdict_zh": "别去",
+      "confidence": "high",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        {
+          "id": "RF_OFFPLATFORM",
+          "severity": "hard",
+          "desc": "高价值物品引导脱离平台交易（微信/QQ），叠加新号风险更高",
+          "evidence": "引导脱离平台 + 公允价¥0/账号3天"
+        },
+        {
+          "id": "RF_FAKE_IMG",
+          "severity": "hard",
+          "desc": "非实拍/盗图",
+          "evidence": "非实拍/盗图"
+        },
+        {
+          "id": "SF_NEW_ACCOUNT",
+          "severity": "soft",
+          "desc": "新注册账号（<30 天）",
+          "evidence": "账号3天"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 1500,
+          "high": 2000,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "成色未知，无法估值",
+      "advice": "命中硬红旗，别去；如已联系，停止任何预付并保留证据。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "s3": {
+    "raw": "{\"item\":{\"title\":\"MacBook Air M1\",\"category\":\"3c数码\",\"condition\":\"未知\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":0,\"pickup\":\"easy\"},\"ask\":{\"price\":800,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":\"海关扣押罚没物资，内部渠道处理\",\"urgent_pressure\":true},\"anchors\":[{\"kind\":\"used\",\"low\":3500,\"high\":4200,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "MacBook Air M1",
+        "category": "3c数码",
+        "condition": "未知",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 0,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 800,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": "海关扣押罚没物资，内部渠道处理",
+        "urgent_pressure": true
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 3500,
+          "high": 4200,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "avoid",
+      "verdict_zh": "别去",
+      "confidence": "high",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        {
+          "id": "RF_STORY",
+          "severity": "hard",
+          "desc": "命中骗局叙事关键词（海关扣押/内部渠道/抵债/富二代/盲盒等）",
+          "evidence": "叙事关键词: 海关/扣押/罚没/内部渠道"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 3500,
+          "high": 4200,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "成色未知，无法估值",
+      "advice": "命中硬红旗，别去；如已联系，停止任何预付并保留证据。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "s4": {
+    "raw": "{\"item\":{\"title\":\"RTX4070显卡\",\"category\":\"3c数码\",\"condition\":\"未知\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":0,\"pickup\":\"easy\"},\"ask\":{\"price\":100,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":false,\"story\":null,\"urgent_pressure\":true},\"anchors\":[{\"kind\":\"used\",\"low\":2800,\"high\":3300,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "RTX4070显卡",
+        "category": "3c数码",
+        "condition": "未知",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 0,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 100,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": false,
+        "story": null,
+        "urgent_pressure": true
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 2800,
+          "high": 3300,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "avoid",
+      "verdict_zh": "别去",
+      "confidence": "high",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        {
+          "id": "RF_FAKE_IMG",
+          "severity": "hard",
+          "desc": "非实拍/盗图",
+          "evidence": "非实拍/盗图"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 2800,
+          "high": 3300,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "成色未知，无法估值",
+      "advice": "命中硬红旗，别去；如已联系，停止任何预付并保留证据。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "s5": {
+    "raw": "{\"item\":{\"title\":\"黄金项链\",\"category\":\"其他\",\"condition\":\"未知\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":0,\"pickup\":\"easy\"},\"ask\":{\"price\":0,\"shipping_fee\":null,\"deposit\":200,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":\"内部渠道抵债物资\",\"urgent_pressure\":true},\"anchors\":[{\"kind\":\"used\",\"low\":3000,\"high\":4000,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "黄金项链",
+        "category": "其他",
+        "condition": "未知",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 0,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": null,
+        "deposit": 200,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": "内部渠道抵债物资",
+        "urgent_pressure": true
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 3000,
+          "high": 4000,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "avoid",
+      "verdict_zh": "别去",
+      "confidence": "high",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        {
+          "id": "RF_DEPOSIT",
+          "severity": "hard",
+          "desc": "要求预付定金/预留费（任何形式预付都是硬红旗）",
+          "evidence": "定金¥200"
+        },
+        {
+          "id": "RF_STORY",
+          "severity": "hard",
+          "desc": "命中骗局叙事关键词（海关扣押/内部渠道/抵债/富二代/盲盒等）",
+          "evidence": "叙事关键词: 内部渠道/抵债"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 3000,
+          "high": 4000,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "成色未知，无法估值",
+      "advice": "命中硬红旗，别去；如已联系，停止任何预付并保留证据。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "f1": {
+    "raw": "{\"item\":{\"title\":\"儿童安全座椅\",\"category\":\"母婴\",\"condition\":\"几乎全新\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":0,\"pickup\":\"medium\"},\"ask\":{\"price\":0,\"shipping_fee\":60,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":150,\"high\":250,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "儿童安全座椅",
+        "category": "母婴",
+        "condition": "几乎全新",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 0,
+        "pickup": "medium"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": 60,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 150,
+          "high": 250,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "avoid",
+      "verdict_zh": "别去",
+      "confidence": "high",
+      "fair_value": 200.0,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        {
+          "id": "RF_SHIPPING",
+          "severity": "hard",
+          "desc": "免费/低价但邮费显著高于合理运费（邮费盘）",
+          "evidence": "邮费¥60 > max(12, 25%×公允价¥200)"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 150,
+          "high": 250,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥150-250 × 成色1.00 × 修正1.00",
+      "advice": "命中硬红旗，别去；如已联系，停止任何预付并保留证据。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "f2": {
+    "raw": "{\"item\":{\"title\":\"空气炸锅\",\"category\":\"家电\",\"condition\":\"轻微使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":0,\"pickup\":\"easy\"},\"ask\":{\"price\":0,\"shipping_fee\":35,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":80,\"high\":120,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "空气炸锅",
+        "category": "家电",
+        "condition": "轻微使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 0,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": 35,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 80,
+          "high": 120,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "avoid",
+      "verdict_zh": "别去",
+      "confidence": "high",
+      "fair_value": 85.0,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        {
+          "id": "RF_SHIPPING",
+          "severity": "hard",
+          "desc": "免费/低价但邮费显著高于合理运费（邮费盘）",
+          "evidence": "邮费¥35 > max(12, 25%×公允价¥85)"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 80,
+          "high": 120,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥80-120 × 成色0.85 × 修正1.00",
+      "advice": "命中硬红旗，别去；如已联系，停止任何预付并保留证据。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "f3": {
+    "raw": "{\"item\":{\"title\":\"品牌沙发\",\"category\":\"家具\",\"condition\":\"未知\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":0,\"pickup\":\"hard\"},\"ask\":{\"price\":0,\"shipping_fee\":null,\"deposit\":100,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":true},\"anchors\":[{\"kind\":\"used\",\"low\":300,\"high\":500,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "品牌沙发",
+        "category": "家具",
+        "condition": "未知",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 0,
+        "pickup": "hard"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": null,
+        "deposit": 100,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": true
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 300,
+          "high": 500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "avoid",
+      "verdict_zh": "别去",
+      "confidence": "high",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        {
+          "id": "RF_DEPOSIT",
+          "severity": "hard",
+          "desc": "要求预付定金/预留费（任何形式预付都是硬红旗）",
+          "evidence": "定金¥100"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 300,
+          "high": 500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "成色未知，无法估值",
+      "advice": "命中硬红旗，别去；如已联系，停止任何预付并保留证据。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "f4": {
+    "raw": "{\"item\":{\"title\":\"专柜名牌包\",\"category\":\"服饰\",\"condition\":\"未知\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":0,\"pickup\":\"easy\"},\"ask\":{\"price\":0,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":true,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":1500,\"high\":2500,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "专柜名牌包",
+        "category": "服饰",
+        "condition": "未知",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 0,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": true,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 1500,
+          "high": 2500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "abstain",
+      "verdict_zh": "无法评估",
+      "confidence": "low",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        {
+          "id": "SF_OFFPLATFORM_LOW",
+          "severity": "soft",
+          "desc": "低价值物品引导脱离平台（降级为软红旗）",
+          "evidence": "低价值物品引导脱离平台"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 1500,
+          "high": 2500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "成色未知，无法估值",
+      "advice": "拒答：成色未知，无法估值。补充可靠价格锚/成色信息后再评。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "f5": {
+    "raw": "{\"item\":{\"title\":\"打印机\",\"category\":\"其他\",\"condition\":\"轻微使用痕迹\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":0,\"pickup\":\"easy\"},\"ask\":{\"price\":0,\"shipping_fee\":25,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":60,\"high\":90,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "打印机",
+        "category": "其他",
+        "condition": "轻微使用痕迹",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 0,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": 25,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 60,
+          "high": 90,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "avoid",
+      "verdict_zh": "别去",
+      "confidence": "high",
+      "fair_value": 63.75,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        {
+          "id": "RF_SHIPPING",
+          "severity": "hard",
+          "desc": "免费/低价但邮费显著高于合理运费（邮费盘）",
+          "evidence": "邮费¥25 > max(12, 25%×公允价¥64)"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 60,
+          "high": 90,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥60-90 × 成色0.85 × 修正1.00",
+      "advice": "命中硬红旗，别去；如已联系，停止任何预付并保留证据。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "a1": {
+    "raw": "{\"item\":{\"title\":\"老式组合音响一套\",\"category\":\"家电\",\"condition\":\"未知\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":5,\"pickup\":\"hard\"},\"ask\":{\"price\":0,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[]}",
+    "parsed": {
+      "item": {
+        "title": "老式组合音响一套",
+        "category": "家电",
+        "condition": "未知",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 5,
+        "pickup": "hard"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": []
+    },
+    "card": {
+      "verdict": "abstain",
+      "verdict_zh": "无法评估",
+      "confidence": "low",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [],
+      "anchors_used": [],
+      "valuation_basis": "无有效价格锚（缺来源/日期或为空）",
+      "advice": "拒答：无有效价格锚（缺来源/日期或为空）。补充可靠价格锚/成色信息后再评。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "a2": {
+    "raw": "{\"item\":{\"title\":\"二手床垫\",\"category\":\"家具\",\"condition\":\"未知\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":2,\"pickup\":\"hard\"},\"ask\":{\"price\":0,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":100,\"high\":200,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "二手床垫",
+        "category": "家具",
+        "condition": "未知",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 2,
+        "pickup": "hard"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 100,
+          "high": 200,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "abstain",
+      "verdict_zh": "无法评估",
+      "confidence": "low",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 100,
+          "high": 200,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "成色未知，无法估值",
+      "advice": "拒答：成色未知，无法估值。补充可靠价格锚/成色信息后再评。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "a3": {
+    "raw": "{\"item\":{\"title\":\"戴森吹风机\",\"category\":\"3c数码\",\"condition\":\"几乎全新\",\"accessories_missing\":[],\"defects\":[],\"warranty_months_left\":0,\"distance_km\":0,\"pickup\":\"easy\"},\"ask\":{\"price\":300,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":1500,\"high\":2000,\"source\":\"\",\"date\":\"\"}]}",
+    "parsed": {
+      "item": {
+        "title": "戴森吹风机",
+        "category": "3c数码",
+        "condition": "几乎全新",
+        "accessories_missing": [],
+        "defects": [],
+        "warranty_months_left": 0,
+        "distance_km": 0,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 300,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 1500,
+          "high": 2000,
+          "source": "",
+          "date": ""
+        }
+      ]
+    },
+    "card": {
+      "verdict": "abstain",
+      "verdict_zh": "无法评估",
+      "confidence": "low",
+      "fair_value": null,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [],
+      "anchors_used": [],
+      "valuation_basis": "无有效价格锚（缺来源/日期或为空）",
+      "advice": "拒答：无有效价格锚（缺来源/日期或为空）。补充可靠价格锚/成色信息后再评。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  },
+  "a4": {
+    "raw": "{\"item\":{\"title\":\"微单相机\",\"category\":\"3c数码\",\"condition\":\"故障/配件机\",\"accessories_missing\":[],\"defects\":[\"功能不知道好不好\"],\"warranty_months_left\":0,\"distance_km\":3,\"pickup\":\"easy\"},\"ask\":{\"price\":0,\"shipping_fee\":null,\"deposit\":null,\"offplatform_contact\":false,\"account_age_days\":null,\"images_real\":null,\"story\":null,\"urgent_pressure\":false},\"anchors\":[{\"kind\":\"used\",\"low\":1500,\"high\":2500,\"source\":\"闲鱼二手行情搜索\",\"date\":\"2026-11-20\"}]}",
+    "parsed": {
+      "item": {
+        "title": "微单相机",
+        "category": "3c数码",
+        "condition": "故障/配件机",
+        "accessories_missing": [],
+        "defects": [
+          "功能不知道好不好"
+        ],
+        "warranty_months_left": 0,
+        "distance_km": 3,
+        "pickup": "easy"
+      },
+      "ask": {
+        "price": 0,
+        "shipping_fee": null,
+        "deposit": null,
+        "offplatform_contact": false,
+        "account_age_days": null,
+        "images_real": null,
+        "story": null,
+        "urgent_pressure": false
+      },
+      "anchors": [
+        {
+          "kind": "used",
+          "low": 1500,
+          "high": 2500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "card": {
+      "verdict": "avoid",
+      "verdict_zh": "别去",
+      "confidence": "high",
+      "fair_value": 552.0,
+      "total_cost": null,
+      "net_rate": null,
+      "flags": [
+        {
+          "id": "RF_TOO_GOOD",
+          "severity": "hard",
+          "desc": "要价远低于公允价（<=5%）且高价值，引流/骗局概率陡增",
+          "evidence": "要价¥0 <= 5%×公允价¥552"
+        }
+      ],
+      "anchors_used": [
+        {
+          "kind": "used",
+          "low": 1500,
+          "high": 2500,
+          "source": "闲鱼二手行情搜索",
+          "date": "2026-11-20"
+        }
+      ],
+      "valuation_basis": "二手行情锚 闲鱼二手行情搜索(2026-11-20) 区间¥1500-2500 × 成色0.30 × 修正0.92",
+      "advice": "命中硬红旗，别去；如已联系，停止任何预付并保留证据。",
+      "disclaimer": "估值仅供参考，交易自行决策；永不代付。"
+    }
+  }
+}

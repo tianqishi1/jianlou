@@ -1,0 +1,21 @@
+name: ci
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: install pytest
+        run: python -m pip install pytest
+      - name: selftest
+        run: python skill/scripts/jianlou.py selftest
+      - name: unit tests
+        run: python -m pytest tests -q
+      - name: engine eval gate (Track A)
+        run: python skill/scripts/jianlou.py eval --data data/eval/jianlou-mini.jsonl

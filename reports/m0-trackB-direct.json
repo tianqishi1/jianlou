@@ -1,0 +1,334 @@
+{
+  "metrics": {
+    "n": 30,
+    "accuracy": 0.7,
+    "scam_recall": 1.0,
+    "fake_fp_rate": 0.0,
+    "abstain_correct": 1.0,
+    "traceability": 1.0,
+    "confusion": {
+      "worth_go": {
+        "worth_go": 6,
+        "watch": 0,
+        "pass": 0,
+        "avoid": 0,
+        "abstain": 0
+      },
+      "watch": {
+        "worth_go": 4,
+        "watch": 0,
+        "pass": 1,
+        "avoid": 0,
+        "abstain": 0
+      },
+      "pass": {
+        "worth_go": 3,
+        "watch": 1,
+        "pass": 1,
+        "avoid": 0,
+        "abstain": 0
+      },
+      "avoid": {
+        "worth_go": 0,
+        "watch": 0,
+        "pass": 0,
+        "avoid": 10,
+        "abstain": 0
+      },
+      "abstain": {
+        "worth_go": 0,
+        "watch": 0,
+        "pass": 0,
+        "avoid": 0,
+        "abstain": 4
+      }
+    }
+  },
+  "gates": {
+    "accuracy>=0.85": false,
+    "scam_recall>=0.90": true,
+    "fake_fp_rate<=0.10": true,
+    "abstain_correct==1.0": true,
+    "traceability==1.0": true
+  },
+  "pass": false,
+  "details": [
+    {
+      "id": "w1",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.775
+    },
+    {
+      "id": "w2",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.563
+    },
+    {
+      "id": "w3",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.725
+    },
+    {
+      "id": "w4",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.5147
+    },
+    {
+      "id": "w5",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.856
+    },
+    {
+      "id": "w6",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.42
+    },
+    {
+      "id": "m1",
+      "gold": "watch",
+      "pred": "worth_go",
+      "ok": false,
+      "flags": [],
+      "net_rate": 0.0924
+    },
+    {
+      "id": "m2",
+      "gold": "watch",
+      "pred": "pass",
+      "ok": false,
+      "flags": [],
+      "net_rate": -0.014
+    },
+    {
+      "id": "m3",
+      "gold": "watch",
+      "pred": "worth_go",
+      "ok": false,
+      "flags": [],
+      "net_rate": 0.259
+    },
+    {
+      "id": "m4",
+      "gold": "watch",
+      "pred": "worth_go",
+      "ok": false,
+      "flags": [],
+      "net_rate": 0.1744
+    },
+    {
+      "id": "m5",
+      "gold": "watch",
+      "pred": "worth_go",
+      "ok": false,
+      "flags": [],
+      "net_rate": 0.0358
+    },
+    {
+      "id": "p1",
+      "gold": "pass",
+      "pred": "worth_go",
+      "ok": false,
+      "flags": [],
+      "net_rate": -0.0217
+    },
+    {
+      "id": "p2",
+      "gold": "pass",
+      "pred": "pass",
+      "ok": true,
+      "flags": [],
+      "net_rate": -0.88
+    },
+    {
+      "id": "p3",
+      "gold": "pass",
+      "pred": "watch",
+      "ok": false,
+      "flags": [],
+      "net_rate": -0.375
+    },
+    {
+      "id": "p4",
+      "gold": "pass",
+      "pred": "worth_go",
+      "ok": false,
+      "flags": [],
+      "net_rate": -0.083
+    },
+    {
+      "id": "p5",
+      "gold": "pass",
+      "pred": "worth_go",
+      "ok": false,
+      "flags": [],
+      "net_rate": -0.0588
+    },
+    {
+      "id": "s1",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        "RF_STORY",
+        "RF_OFFPLATFORM",
+        "RF_TOO_GOOD",
+        "SF_URGENT"
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "s2",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        "RF_FAKE_IMG",
+        "RF_OFFPLATFORM",
+        "RF_TOO_GOOD",
+        "SF_NEW_ACCOUNT",
+        "SF_URGENT"
+      ],
+      "net_rate": 0.963
+    },
+    {
+      "id": "s3",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        "RF_STORY",
+        "RF_TOO_GOOD",
+        "SF_URGENT"
+      ],
+      "net_rate": 0.7883
+    },
+    {
+      "id": "s4",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        "RF_TOO_GOOD",
+        "RF_FAKE_IMG",
+        "SF_NEW_ACCOUNT",
+        "SF_URGENT"
+      ],
+      "net_rate": 0.962
+    },
+    {
+      "id": "s5",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        "RF_DEPOSIT",
+        "RF_STORY"
+      ],
+      "net_rate": 0.9386
+    },
+    {
+      "id": "f1",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        "RF_SHIPPING"
+      ],
+      "net_rate": 0.7
+    },
+    {
+      "id": "f2",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        "RF_SHIPPING"
+      ],
+      "net_rate": 0.588
+    },
+    {
+      "id": "f3",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        "RF_DEPOSIT",
+        "SF_URGENT"
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "f4",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        "RF_OFFPLATFORM",
+        "RF_TOO_GOOD",
+        "SF_NEW_ACCOUNT"
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "f5",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        "RF_SHIPPING"
+      ],
+      "net_rate": 0.373
+    },
+    {
+      "id": "a1",
+      "gold": "abstain",
+      "pred": "abstain",
+      "ok": true,
+      "flags": [],
+      "net_rate": null
+    },
+    {
+      "id": "a2",
+      "gold": "abstain",
+      "pred": "abstain",
+      "ok": true,
+      "flags": [],
+      "net_rate": null
+    },
+    {
+      "id": "a3",
+      "gold": "abstain",
+      "pred": "abstain",
+      "ok": true,
+      "flags": [],
+      "net_rate": null
+    },
+    {
+      "id": "a4",
+      "gold": "abstain",
+      "pred": "abstain",
+      "ok": true,
+      "flags": [],
+      "net_rate": null
+    }
+  ],
+  "model": "qwen3.8-max"
+}

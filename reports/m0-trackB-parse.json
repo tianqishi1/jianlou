@@ -1,0 +1,466 @@
+{
+  "metrics": {
+    "n": 30,
+    "accuracy": 1.0,
+    "scam_recall": 1.0,
+    "fake_fp_rate": 0.0,
+    "abstain_correct": 1.0,
+    "traceability": 1.0,
+    "confusion": {
+      "worth_go": {
+        "worth_go": 6,
+        "watch": 0,
+        "pass": 0,
+        "avoid": 0,
+        "abstain": 0
+      },
+      "watch": {
+        "worth_go": 0,
+        "watch": 5,
+        "pass": 0,
+        "avoid": 0,
+        "abstain": 0
+      },
+      "pass": {
+        "worth_go": 0,
+        "watch": 0,
+        "pass": 5,
+        "avoid": 0,
+        "abstain": 0
+      },
+      "avoid": {
+        "worth_go": 0,
+        "watch": 0,
+        "pass": 0,
+        "avoid": 10,
+        "abstain": 0
+      },
+      "abstain": {
+        "worth_go": 0,
+        "watch": 0,
+        "pass": 0,
+        "avoid": 0,
+        "abstain": 4
+      }
+    }
+  },
+  "gates": {
+    "accuracy>=0.85": true,
+    "scam_recall>=0.90": true,
+    "fake_fp_rate<=0.10": true,
+    "abstain_correct==1.0": true,
+    "traceability==1.0": true
+  },
+  "pass": true,
+  "details": [
+    {
+      "id": "w1",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.925
+    },
+    {
+      "id": "w2",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.5529
+    },
+    {
+      "id": "w3",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.6667
+    },
+    {
+      "id": "w4",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.5147
+    },
+    {
+      "id": "w5",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.8225
+    },
+    {
+      "id": "w6",
+      "gold": "worth_go",
+      "pred": "worth_go",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.477
+    },
+    {
+      "id": "m1",
+      "gold": "watch",
+      "pred": "watch",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.1176
+    },
+    {
+      "id": "m2",
+      "gold": "watch",
+      "pred": "watch",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.1538
+    },
+    {
+      "id": "m3",
+      "gold": "watch",
+      "pred": "watch",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.2311
+    },
+    {
+      "id": "m4",
+      "gold": "watch",
+      "pred": "watch",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.1365
+    },
+    {
+      "id": "m5",
+      "gold": "watch",
+      "pred": "watch",
+      "ok": true,
+      "flags": [],
+      "net_rate": 0.1299
+    },
+    {
+      "id": "p1",
+      "gold": "pass",
+      "pred": "pass",
+      "ok": true,
+      "flags": [],
+      "net_rate": -0.1108
+    },
+    {
+      "id": "p2",
+      "gold": "pass",
+      "pred": "pass",
+      "ok": true,
+      "flags": [
+        {
+          "id": "SF_DISTANCE",
+          "severity": "soft",
+          "desc": "自提距离 >30km",
+          "evidence": "45km"
+        }
+      ],
+      "net_rate": -0.2692
+    },
+    {
+      "id": "p3",
+      "gold": "pass",
+      "pred": "pass",
+      "ok": true,
+      "flags": [],
+      "net_rate": -0.1
+    },
+    {
+      "id": "p4",
+      "gold": "pass",
+      "pred": "pass",
+      "ok": true,
+      "flags": [],
+      "net_rate": -0.0199
+    },
+    {
+      "id": "p5",
+      "gold": "pass",
+      "pred": "pass",
+      "ok": true,
+      "flags": [],
+      "net_rate": -0.0635
+    },
+    {
+      "id": "s1",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        {
+          "id": "RF_OFFPLATFORM",
+          "severity": "hard",
+          "desc": "高价值物品引导脱离平台交易（微信/QQ），叠加新号风险更高",
+          "evidence": "引导脱离平台 + 公允价¥6000/账号None天"
+        },
+        {
+          "id": "RF_STORY",
+          "severity": "hard",
+          "desc": "命中骗局叙事关键词（海关扣押/内部渠道/抵债/富二代/盲盒等）",
+          "evidence": "叙事关键词: 富二代/盲盒"
+        },
+        {
+          "id": "RF_TOO_GOOD",
+          "severity": "hard",
+          "desc": "要价<=5%价值且高价值，并叠加其他风险信号（脱离平台/新号/盗图/叙事/催促/定金）",
+          "evidence": "要价¥0 <= 5%×价值¥6000 且叠加其他风险信号"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "s2",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        {
+          "id": "RF_OFFPLATFORM",
+          "severity": "hard",
+          "desc": "高价值物品引导脱离平台交易（微信/QQ），叠加新号风险更高",
+          "evidence": "引导脱离平台 + 公允价¥1750/账号3天"
+        },
+        {
+          "id": "RF_FAKE_IMG",
+          "severity": "hard",
+          "desc": "非实拍/盗图",
+          "evidence": "非实拍/盗图"
+        },
+        {
+          "id": "RF_TOO_GOOD",
+          "severity": "hard",
+          "desc": "要价<=5%价值且高价值，并叠加其他风险信号（脱离平台/新号/盗图/叙事/催促/定金）",
+          "evidence": "要价¥50 <= 5%×价值¥1750 且叠加其他风险信号"
+        },
+        {
+          "id": "SF_NEW_ACCOUNT",
+          "severity": "soft",
+          "desc": "新注册账号（<30 天）",
+          "evidence": "账号3天"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "s3",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        {
+          "id": "RF_STORY",
+          "severity": "hard",
+          "desc": "命中骗局叙事关键词（海关扣押/内部渠道/抵债/富二代/盲盒等）",
+          "evidence": "叙事关键词: 海关/扣押/罚没/内部渠道"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "s4",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        {
+          "id": "RF_FAKE_IMG",
+          "severity": "hard",
+          "desc": "非实拍/盗图",
+          "evidence": "非实拍/盗图"
+        },
+        {
+          "id": "RF_TOO_GOOD",
+          "severity": "hard",
+          "desc": "要价<=5%价值且高价值，并叠加其他风险信号（脱离平台/新号/盗图/叙事/催促/定金）",
+          "evidence": "要价¥100 <= 5%×价值¥3050 且叠加其他风险信号"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "s5",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        {
+          "id": "RF_DEPOSIT",
+          "severity": "hard",
+          "desc": "要求预付定金/预留费（任何形式预付都是硬红旗）",
+          "evidence": "定金¥200"
+        },
+        {
+          "id": "RF_STORY",
+          "severity": "hard",
+          "desc": "命中骗局叙事关键词（海关扣押/内部渠道/抵债/富二代/盲盒等）",
+          "evidence": "叙事关键词: 内部渠道/抵债"
+        },
+        {
+          "id": "RF_TOO_GOOD",
+          "severity": "hard",
+          "desc": "要价<=5%价值且高价值，并叠加其他风险信号（脱离平台/新号/盗图/叙事/催促/定金）",
+          "evidence": "要价¥0 <= 5%×价值¥3500 且叠加其他风险信号"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "f1",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        {
+          "id": "RF_SHIPPING",
+          "severity": "hard",
+          "desc": "免费/低价但邮费显著高于合理运费（邮费盘）",
+          "evidence": "邮费¥60 > max(12, 25%×公允价¥200)"
+        }
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "f2",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        {
+          "id": "RF_SHIPPING",
+          "severity": "hard",
+          "desc": "免费/低价但邮费显著高于合理运费（邮费盘）",
+          "evidence": "邮费¥35 > max(12, 25%×公允价¥100)"
+        }
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "f3",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        {
+          "id": "RF_DEPOSIT",
+          "severity": "hard",
+          "desc": "要求预付定金/预留费（任何形式预付都是硬红旗）",
+          "evidence": "定金¥100"
+        },
+        {
+          "id": "SF_URGENT",
+          "severity": "soft",
+          "desc": "催促立即决定/制造紧迫感",
+          "evidence": "催促立即决定"
+        }
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "f4",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        {
+          "id": "RF_OFFPLATFORM",
+          "severity": "hard",
+          "desc": "高价值物品引导脱离平台交易（微信/QQ），叠加新号风险更高",
+          "evidence": "引导脱离平台 + 公允价¥2000/账号None天"
+        },
+        {
+          "id": "RF_TOO_GOOD",
+          "severity": "hard",
+          "desc": "要价<=5%价值且高价值，并叠加其他风险信号（脱离平台/新号/盗图/叙事/催促/定金）",
+          "evidence": "要价¥0 <= 5%×价值¥2000 且叠加其他风险信号"
+        }
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "f5",
+      "gold": "avoid",
+      "pred": "avoid",
+      "ok": true,
+      "flags": [
+        {
+          "id": "RF_SHIPPING",
+          "severity": "hard",
+          "desc": "免费/低价但邮费显著高于合理运费（邮费盘）",
+          "evidence": "邮费¥25 > max(12, 25%×公允价¥75)"
+        }
+      ],
+      "net_rate": null
+    },
+    {
+      "id": "a1",
+      "gold": "abstain",
+      "pred": "abstain",
+      "ok": true,
+      "flags": [],
+      "net_rate": null
+    },
+    {
+      "id": "a2",
+      "gold": "abstain",
+      "pred": "abstain",
+      "ok": true,
+      "flags": [],
+      "net_rate": null
+    },
+    {
+      "id": "a3",
+      "gold": "abstain",
+      "pred": "abstain",
+      "ok": true,
+      "flags": [],
+      "net_rate": null
+    },
+    {
+      "id": "a4",
+      "gold": "abstain",
+      "pred": "abstain",
+      "ok": true,
+      "flags": [],
+      "net_rate": null
+    }
+  ],
+  "model": "qwen3.8-max",
+  "mode": "parse"
+}

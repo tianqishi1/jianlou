@@ -1,0 +1,9 @@
+{
+  "item": {"title": "保友人体工学椅", "category": "家具", "condition": "几乎全新",
+           "accessories_missing": [], "defects": [], "warranty_months_left": 0,
+           "distance_km": 6, "pickup": "easy"},
+  "ask": {"price": 0, "shipping_fee": null, "deposit": null,
+          "offplatform_contact": false, "account_age_days": 600,
+          "images_real": true, "story": null, "urgent_pressure": false},
+  "anchors": [{"kind": "used", "low": 400, "high": 600, "source": "闲鱼二手行情搜索", "date": "2026-11-23"}]
+}
