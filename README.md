@@ -3,7 +3,7 @@
 **免费/低价闲置"值不值得去拿"的判断引擎**：可解释、可拒答、带证据。Codex Skill 形态，零第三方依赖（Python 3.10+）。
 
 > 设计文档：[产品设计方案](docs/产品设计方案.md) · [技术实现方案](docs/技术实现方案.md) · [M0 评测报告](docs/benchmarks/m0-eval.md)
-> 可行性论证：D:\codex\捡漏Skill可行性评估报告.md（v2.1）
+> 可行性论证：捡漏Skill可行性评估报告.md（v2.1）
 
 ## 核心
 
@@ -19,7 +19,7 @@
 
 ```powershell
 # 安装 Skill 到 Codex
-Copy-Item -Recurse D:\codex\jianlou\skill $env:USERPROFILE\.codex\skills\jianlou
+Copy-Item -Recurse jianlou\skill $env:USERPROFILE\.codex\skills\jianlou
 
 # 引擎 CLI
 python skill\scripts\jianlou.py selftest

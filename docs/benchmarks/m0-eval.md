@@ -45,9 +45,9 @@ parse 模式（LLM 只解析、引擎算账）30/30 全对，验证了 SKILL.md 
 ## 5. 复现
 
 ```powershell
-python D:\codex\jianlou\data\eval\build_cases.py
-python D:\codex\jianlou\skill\scripts\jianlou.py eval --data D:\codex\jianlou\data\eval\jianlou-mini.jsonl
-python D:\codex\jianlou\eval\run_eval.py --mode parse     # 需 ~/.bailian/config.json
-python D:\codex\jianlou\eval\run_eval.py --mode direct    # 消融
-python -m pytest D:\codex\jianlou\tests -q
+python jianlou\data\eval\build_cases.py
+python jianlou\skill\scripts\jianlou.py eval --data jianlou\data\eval\jianlou-mini.jsonl
+python jianlou\eval\run_eval.py --mode parse     # 需 ~/.bailian/config.json
+python jianlou\eval\run_eval.py --mode direct    # 消融
+python -m pytest jianlou\tests -q
 ```
